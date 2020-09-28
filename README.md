@@ -16,7 +16,7 @@ pip install sqlite3
 
 Allow for the installation to complete, then the program is ready to run.
 
-Simply type: python d2p2.py
+Simply type: python program.py
 
 AFTER THE PROGRAM IS DONE, THE DATA WILL BE SAVED INTO THE DATABASE(mydb).
 YOU CAN CHECK THE DATA BY OPEN THE DATABASE(using following command):
