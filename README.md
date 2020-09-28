@@ -1,18 +1,18 @@
 # graphical_password_crafting_system
 
 HOW TO PROPERLY USE THIS SOFTWARE.
-NEEDS PYTHON INSTALLED TO WORK: python.org/downloads/
-AFTER INSTALATION, ADD PYTHON TO GLOBAL VARIABLES ON COMPUTER.
-ATTENTION: TO RUN THIS PROGRAM, YOU HAVE TO USE PYTHON2
+/NEEDS PYTHON INSTALLED TO WORK: python.org/downloads/
+/AFTER INSTALATION, ADD PYTHON TO GLOBAL VARIABLES ON COMPUTER.
+/ATTENTION: TO RUN THIS PROGRAM, YOU HAVE TO USE PYTHON2
 
-When the program is done, the data will be save into the database(mydb.db).
+/When the program is done, the data will be save into the database(mydb.db).
 
-BEFORE USE:
-User must enter the following into a CMD prompt:
+/BEFORE USE:
+/User must enter the following into a CMD prompt:
 
-python -m pip install datetime
-python -m pip install Tkinter
-pip install sqlite3
+/python -m pip install datetime
+/python -m pip install Tkinter
+/pip install sqlite3
 
 Allow for the installation to complete, then the program is ready to run.
 
